@@ -4,3 +4,5 @@ version = "0.1.0"
 edition = "2021"
 authors = ["IoaNN_UwU"]
 repository = "https://github.com/IoaNNUwU/split_owned"
+description = "simple way to split array in 2 owned arrays with compile-time bounds checks"
+license = "MIT"
