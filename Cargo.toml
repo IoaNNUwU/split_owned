@@ -1,6 +1,6 @@
 [package]
 name = "split_owned"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["IoaNN_UwU"]
 repository = "https://github.com/IoaNNUwU/split_owned"
